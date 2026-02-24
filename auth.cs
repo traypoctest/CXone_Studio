@@ -1,1 +1,1 @@
-
+# Studio Auth implementation
